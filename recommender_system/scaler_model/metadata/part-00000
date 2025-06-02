@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StandardScalerModel","timestamp":1748816770922,"sparkVersion":"3.4.1","uid":"StandardScaler_92ca444fa119","paramMap":{"outputCol":"nutrition_vectors","inputCol":"nutrition_features","withStd":true,"withMean":true},"defaultParamMap":{"outputCol":"StandardScaler_92ca444fa119__output","withStd":true,"withMean":false}}
