@@ -29,8 +29,7 @@ ChefAI est l'outil idéal pour les cuisiniers amateurs et expérimentés, les pe
 
 ChefAI n'est pas seulement une application, c'est votre partenaire culinaire intelligent, vous guidant de l'inspiration de la recette à l'assiette finale, avec une connaissance approfondie des ingrédients et des produits qui rendent chaque plat parfait.
 
-
-
+Merci de telecharger le fichier df_products_vectorized\part-00000-9b1a6cc0-c69a-44f9-86f7-51167c19421f-c000.snappy.parquet from the link below https://drive.google.com/file/d/1FyF_1tpUinMZgBOkinWDkDF-sOqejpkl/view?usp=sharing
 
 
 
